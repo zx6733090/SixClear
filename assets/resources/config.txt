@@ -1,0 +1,13 @@
+{
+	"level":[{}],
+	"shareTitle":["六六六大吉"],
+	"shareImg":["https://config.023mama.com/static/config/36834db33e9eb3a6242e335e628cf93a.png"],
+	"lure":false,
+	"oldVersion_lure":true,
+    "version":"1.0.0",
+    "boxAppId":"wx44474c765f81aa1c",
+	"frameInterval":0.25,
+    "recommend":[{"appId":"wx9a549d9d970119dc","time":5,"images":"https://config.023mama.com/static/config/hlbds/game1/slm_.png,1-9"},
+{"appId":"wx8a90bb0f282702d0","time":5,"images":"https://config.023mama.com/static/config/hlbds/game1/js_.png,1-2"},
+{"appId":"wx2e510cc12bd2c142","time":5,"images":"https://config.023mama.com/static/config/hlbds/game1/xl_.png,1-5"}]
+}

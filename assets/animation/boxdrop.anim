@@ -1,0 +1,114 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "boxdrop",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.9333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "1",
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            0
+          ],
+          "motionPath": [
+            [
+              325,
+              -127,
+              200,
+              39,
+              441,
+              -271
+            ]
+          ]
+        },
+        {
+          "frame": 0.6166666666666667,
+          "value": [
+            438,
+            -541
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.9166666666666666,
+          "value": [
+            438,
+            -541
+          ]
+        },
+        {
+          "frame": 0.9333333333333333,
+          "value": [
+            0,
+            0
+          ]
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 0.6166666666666667,
+          "value": 255
+        },
+        {
+          "frame": 0.9166666666666666,
+          "value": 0
+        },
+        {
+          "frame": 0.9333333333333333,
+          "value": 255
+        }
+      ],
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 0.6166666666666667,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 0.9166666666666666,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 2,
+            "y": 2
+          }
+        },
+        {
+          "frame": 0.9333333333333333,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0.8833333333333333,
+      "func": "showGift",
+      "params": []
+    }
+  ]
+}
